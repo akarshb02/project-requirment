@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
+    ;
+    background-color: yellow;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    padding: 12px;
+}
+
+h2 {
+    background: transparent;
+    font-size: 26px;
+}
+
+.card-body {
+    padding: 10px;
+    margin: 15px;
+    border: 1px solid #5F6368;
+    border-radius: 40px;
+}
+
+.flex {
+    display: inline-flex;
+}
+
+img {
+    height: 100px;
+    vertical-align: middle;
+}
+
+#para {
+    display: inline-block;
+}
+
+.card {
+    background-color: black;
+}
